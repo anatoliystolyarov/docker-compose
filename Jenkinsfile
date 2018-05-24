@@ -1,6 +1,6 @@
 node {
 	stage ('Build container'){
-		sh "echo tr"
+		sh "echo trweq"
 		sh 'ls -la'
 	}
 }
